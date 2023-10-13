@@ -1,0 +1,18 @@
+{
+  "id": 3355,
+  "category": {
+    "id": 3355,
+    "name": "string"
+  },
+  "name": "korgi",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
